@@ -19,7 +19,7 @@ getBackgroundColor(logo).then(color => {
 
 Raw Logo | Filled Logo
 --- | ---
-<img src="https://raw.githubusercontent.com/elainework/plaid-backgrounds/master/assets/ally-logo.png?token=ANCSRTSTVBOQCJAWN4G4Q3K6P2IB4" width="120" /> | <img src="https://raw.githubusercontent.com/elainework/plaid-backgrounds/master/assets/ally-logo-filled.png?token=ANCSRTWRLALIPROX46XKHA26P2IFA" width="120"/>
+![Ally logo purple circle](assets/ally-logo.png) | ![Ally logo purple-filled squircle](assets//ally-logo-filled.png)
 
 **Example 2**
 ```
@@ -31,4 +31,4 @@ getBackgroundColor(logo).then(color => {
 
 Raw Logo | Filled Logo
 --- | ---
-<img src="https://raw.githubusercontent.com/elainework/plaid-backgrounds/master/assets/amex-logo.png?token=ANCSRTWGLBVXEMHNYFVRRBS6P2IIK" width="120" /> | <img src="https://raw.githubusercontent.com/elainework/plaid-backgrounds/master/assets/amex-logo-filled.png?token=ANCSRTU3FGJYNFHFYJ5XOCK6P2II6" width="120"/>
+![Amex logo blue gradient circle](assets/amex-logo.png) | ![Amex logo light gray-filled squircle](assets/amex-logo-filled.png)
