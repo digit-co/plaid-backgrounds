@@ -14,7 +14,6 @@ const Color = require("color");
 function getColorAt(data, width, coordinate) {
   const RGBA_LEN = 4;
   const [x, y] = coordinate;
-  // eslint-disable-next-line no-mixed-operators
   const index = (y * width + x) * RGBA_LEN;
 
   const [r, g, b, a] = data.slice(index, index + RGBA_LEN);
