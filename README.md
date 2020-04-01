@@ -32,3 +32,6 @@ getBackgroundColor(logo).then(color => {
 Raw Logo | Filled Logo
 --- | ---
 ![Amex logo blue gradient circle](assets/amex-logo.png) | ![Amex logo light gray-filled squircle](assets/amex-logo-filled.png)
+
+## License
+Plaid background is [MIT licensed](https://github.com/hellodigit/plaid-backgrounds/blob/master/LICENSE)
