@@ -1,5 +1,5 @@
 {
-  "name": "Plaid Backgrounds",
+  "name": "plaid-backgrounds",
   "version": "1.0.0",
   "description": "Get the background color of a base64 encoded image, such as logos from Plaid.",
   "main": "getColor.js",
@@ -10,7 +10,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elainework/plaid-backgrounds.git"
+    "url": "git+https://github.com/hellodigit/plaid-backgrounds.git"
   },
   "keywords": [
     "plaid",
@@ -22,7 +22,7 @@
   "author": "Elaine Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elainework/plaid-backgrounds/issues"
+    "url": "https://github.com/hellodigit/plaid-backgrounds/issues"
   },
-  "homepage": "https://github.com/elainework/plaid-backgrounds#readme"
+  "homepage": "https://github.com/hellodigit/plaid-backgrounds#readme"
 }
